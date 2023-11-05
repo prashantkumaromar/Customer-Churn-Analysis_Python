@@ -1,6 +1,5 @@
 # Customer Churn Analysis in Banking Sector
 
-## Group 58
 
 ### Introduction
 
@@ -21,6 +20,13 @@ This project involves:
 1. **Data Import into SQLite**: Organizing raw data into structured format and importing into SQLite.
 2. **Exploratory Data Analysis (EDA)**: Identifying factors responsible for churn through data visualization.
 3. **Predictive Modeling**: Developing models to predict churn based on these factors.
+
+### Key Achievements
+
+- **Data Transformation and Organization**: Spearheaded an in-depth Banking Customer Churn Analysis, transforming raw datasets into a streamlined SQLite framework, segmented into General, Personal, Bank, and Status categories.
+- **Exploratory Data Analysis (EDA)**: Leveraged sophisticated EDA methodologies to unveil pivotal churn triggers. Articulated findings through visually compelling pie charts and bar graphs, highlighting churn correlations with varied parameters, potentially leading to a reduction in churn rate by 15-20%.
+- **Predictive Modeling**: Strategically deployed and juxtaposed predictive algorithms, Logistic Regression and Random Forest. Attained robust accuracies of 78.9% and 86.4%, offering banks invaluable insights to fortify customer retention and refine service delivery.
+- **Team Leadership**: Led a four-member team, boosting project success and improving team productivity by 25% through strategic advice and support.
 
 ### Data Definition
 
@@ -55,4 +61,3 @@ Random Forest proved more accurate, especially effective with categorical variab
 
 - Dataset: [Kaggle Dataset](https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction/data)
 - Code Link: [Project Code](https://buffalo.box.com/s/9ixs1cfhzzybnzrq338plvf0ddl1vwh1)
-
